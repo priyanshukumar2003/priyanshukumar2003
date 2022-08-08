@@ -8,6 +8,8 @@
 - 📫 How to reach me: <a href="https://t.me/priyanshukumar2003">Telegram </a>
 - ⚡ Fun fact: I like when people think they can fool me and in the end they discover someting amazing.
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
+
 ![snake gif](https://github.com/priyanshukumar2003/priyanshukumar2003/raw/output/github-contribution-grid-snake.svg)
 
 [![Priyanshu Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshukumar2003&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/priyanshukumar2003/github-readme-stats)
